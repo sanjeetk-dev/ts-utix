@@ -1,6 +1,6 @@
 {
   "name": "ts-utix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanjeetk-dev/utix.git"
+    "url": "https://github.com/sanjeetk-dev/ts-utix.git"
   },
   "author": "Sanjeet Kumar",
   "license": "MIT",
