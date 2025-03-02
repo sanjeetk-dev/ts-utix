@@ -6,13 +6,13 @@ A set of useful utility functions for formatting numbers, strings, dates, and ge
 ## Installation
 
 ```bash
-npm install utix
+npm install ts-utix
 ```
 
 ## Usage
 
 ```javascript
-import { formatNumber, kebabCase, UUID, relativeTime } from 'utix';
+import { formatNumber, kebabCase, UUID, relativeTime } from 'ts-utix';
 ```
 
 ## API Reference
