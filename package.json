@@ -1,0 +1,32 @@
+{
+  "name": "utix",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "utility",
+    "typescript",
+    "utils",
+    "helper-functions",
+    "number-formatting",
+    "date-utils",
+    "utix",
+    "string-manipulation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjeetk-dev/utix.git"
+  },
+  "author": "Sanjeet Kumar",
+  "license": "MIT",
+  "description": "A lightweight utility library for TypeScript and JavaScript",
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  }
+}

@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+dist/
+*.log
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# TypeScript build files
+*.tsbuildinfo
+*.d.ts
+*.d.ts.map
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
